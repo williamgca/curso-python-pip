@@ -7,4 +7,4 @@ cd game
 python3 main.py
 ```
 
-Test new Ignores
+Test new Ignores2
